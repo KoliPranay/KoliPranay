@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JAAADU
+- 👋 Hi, I’m Pranay Koli
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Fy BSC(CS)
 - 💞️ I’m looking to collaborate on 
